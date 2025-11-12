@@ -15,7 +15,7 @@ export const Header: React.FC<HeaderProps> = ({ onReset, showReset }) => {
           <div className="flex items-center gap-2">
             <SparklesIcon className="h-8 w-8 text-indigo-500" />
             <h1 className="text-xl md:text-2xl font-bold text-gray-800">
-              AI Interior Designer
+              AI 인테리어 디자인
             </h1>
           </div>
           {showReset && (
