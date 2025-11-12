@@ -1,0 +1,5 @@
+{
+  "name": "AI Interior Designer",
+  "description": "An interactive room makeover app powered by Gemini. Upload a photo of your space, choose a new style, and watch as AI generates a redesigned version. Refine the design further through an integrated chat interface.",
+  "requestFramePermissions": []
+}
